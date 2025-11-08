@@ -1,0 +1,14 @@
+[
+    {
+        "usuario": "villa",
+        "cancha": "Parque de San Isidro",
+        "hora": "08:00 - 09:00",
+        "fecha": "2025-11-07"
+    },
+    {
+        "usuario": "villa",
+        "cancha": "Parque Las Mercedes",
+        "hora": "13:00 - 14:00",
+        "fecha": "2025-11-07"
+    }
+]
